@@ -1,0 +1,16 @@
+{"time":"2025-01-26T23:44:49.824399499Z","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/content/drive/MyDrive/yolov5/wandb/run-20250126_234449-ez1gbq1k/logs/debug-core.log"}
+{"time":"2025-01-26T23:44:49.949358733Z","level":"INFO","msg":"created new stream","id":"ez1gbq1k"}
+{"time":"2025-01-26T23:44:49.950176671Z","level":"INFO","msg":"stream: started","id":"ez1gbq1k"}
+{"time":"2025-01-26T23:44:49.950193499Z","level":"INFO","msg":"writer: Do: started","stream_id":"ez1gbq1k"}
+{"time":"2025-01-26T23:44:49.950231532Z","level":"INFO","msg":"handler: started","stream_id":"ez1gbq1k"}
+{"time":"2025-01-26T23:44:49.95026602Z","level":"INFO","msg":"sender: started","stream_id":"ez1gbq1k"}
+{"time":"2025-01-26T23:44:50.246960986Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T00:12:45.401973433Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T00:12:45.402962152Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T00:12:46.402483956Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run_ez1gbq1k_model","runtime_seconds":1.6840506899999999,"subtasks":[{"desc":"best.pt","runtime_seconds":1.399161973,"progress":"61.0MB/88.6MB"}]}],"total_operations":1}}
+{"time":"2025-01-27T00:12:47.46545398Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T00:12:48.733046738Z","level":"INFO","msg":"stream: closing","id":"ez1gbq1k"}
+{"time":"2025-01-27T00:12:48.733168572Z","level":"INFO","msg":"handler: closed","stream_id":"ez1gbq1k"}
+{"time":"2025-01-27T00:12:48.733226726Z","level":"INFO","msg":"writer: Close: closed","stream_id":"ez1gbq1k"}
+{"time":"2025-01-27T00:12:48.733403352Z","level":"INFO","msg":"sender: closed","stream_id":"ez1gbq1k"}
+{"time":"2025-01-27T00:12:48.734529735Z","level":"INFO","msg":"stream: closed","id":"ez1gbq1k"}

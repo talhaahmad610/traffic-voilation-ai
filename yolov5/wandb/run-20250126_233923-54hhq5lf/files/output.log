@@ -1,0 +1,13 @@
+
+Dataset not found ⚠️, missing paths ['/content/drive/MyDrive/dataset/images/val']
+Traceback (most recent call last):
+  File "/content/drive/MyDrive/yolov5/train.py", line 986, in <module>
+    main(opt)
+  File "/content/drive/MyDrive/yolov5/train.py", line 688, in main
+    train(opt.hyp, opt, device, callbacks)
+  File "/content/drive/MyDrive/yolov5/train.py", line 203, in train
+    data_dict = data_dict or check_dataset(data)  # check if None
+                             ^^^^^^^^^^^^^^^^^^^
+  File "/content/drive/MyDrive/yolov5/utils/general.py", line 564, in check_dataset
+    raise Exception("Dataset not found ❌")
+Exception: Dataset not found ❌
