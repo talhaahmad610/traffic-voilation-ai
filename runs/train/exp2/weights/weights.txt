@@ -1,2 +1,0 @@
-https://drive.google.com/drive/folders/1VNaDnmnYq8M57tP_-A-9Q6aYxToex8i1?usp=sharing
-//weights links includes best.pt and last.pt
